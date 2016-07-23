@@ -1,0 +1,1 @@
+As mentioned above, first argument is always script name and it is also being counted in number of arguments.
